@@ -1,0 +1,16 @@
+{
+  "name": "chat-socketio",
+  "version": "1.0.0",
+  "description": "Simple chat in real time with Socket.io",
+  "main": "public/index.js",
+  "repository": "git@github.com:JuAlexandre/chat-socketio.git",
+  "author": "Julien ALEXANDRE <julien.alexandre26@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node public/index.js"
+  }
+}
